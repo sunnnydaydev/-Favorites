@@ -54,6 +54,8 @@
 
 [10、菜鸟教程](https://www.runoob.com/)
 
+[11、安卓变体构建](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/advanced_build_customization/manipulation_taskstask.html)
+
 ### 五、Temp
 [1、日期工具类](https://www.cnblogs.com/hglibin/p/10402878.html)
 
