@@ -24,6 +24,8 @@
 
 [4、安卓下拉刷新控件推荐系列](https://zhuanlan.zhihu.com/p/36334257)
 
+[5、廖雪峰git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
 ### 三、优质个人博客
 
 [1、写代码的猴子](https://jaeger.itscoder.com/about/)
