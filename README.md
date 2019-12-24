@@ -50,7 +50,7 @@
 
 [5、idea注册码（持续更新）](https://www.cnblogs.com/oucbl/p/11664610.html)
 
-[6、安卓源码在线查看](http://androidxref.com/4.2.2_r1/)
+[6、安卓源码在线查看](http://androidxref.com/4.2.2_r1/) [google 开源源码在线](https://cs.android.com/)
 
 [7、dart在线编程](https://dartpad.dartlang.org/215ba63265350c02dfbd586dfd30b8c3)
 
