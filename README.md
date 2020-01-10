@@ -48,7 +48,7 @@
 
 [4、Lottie Files](https://lottiefiles.com/search?q=loading)
 
-[5、idea注册码（持续更新）](https://www.cnblogs.com/oucbl/p/11664610.html)
+[5、idea破解](https://www.cnblogs.com/allenj1234/p/12154663.html)
 
 [6、安卓源码在线查看](http://androidxref.com/4.2.2_r1/) [google 开源源码在线](https://cs.android.com/)
 
