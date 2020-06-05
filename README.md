@@ -26,6 +26,8 @@
 
 [5、廖雪峰git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
+[6、深入拆解jvm](https://doc.mcust.cn/jvm/article/11074.html)
+
 ### 三、优质个人博客
 
 [1、写代码的猴子](https://jaeger.itscoder.com/about/)
